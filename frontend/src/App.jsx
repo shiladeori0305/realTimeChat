@@ -3,7 +3,7 @@ import { Routes, Route, Navigate } from 'react-router-dom';
 import { Loader } from 'lucide-react';
 import { Toaster } from 'react-hot-toast';
 
-import Navbar from './components/navbar';
+import Navbar from "./components/Navbar";
 import HomePage from './pages/HomePage';
 import LoginPage from './pages/LoginPage';
 import ProfilePage from './pages/ProfilePage';
